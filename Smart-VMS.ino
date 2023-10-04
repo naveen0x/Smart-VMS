@@ -6,8 +6,8 @@
 #include <LiquidCrystal_I2C.h>
 
 
-const char* ssid = "xxxxxx";
-const char* password = "xxxxxxxxx";
+const char* ssid = "xxxxxx"; //Wifi SSID
+const char* password = "xxxxxxxxx"; //Wifi Password
 #define API_KEY "AIzaSyDD1L5LqzJW-A9pz60LX5A8iQaoHKLXkK4"
 #define DATABASE_URL "https://parking-9e566-default-rtdb.firebaseio.com"
 #define SOUND_SPEED 0.034
